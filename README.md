@@ -1,3 +1,3 @@
-# This account is deprecated
-
-All my code is now at <https://hub.d2evs.net/~ecs>
+HTTP/1.1 301 Moved Permanently  
+Content-length: 0  
+Location: <https://sr.ht/~ecs>
